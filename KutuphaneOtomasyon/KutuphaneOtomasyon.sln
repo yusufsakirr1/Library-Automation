@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34526.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutuphaneOtomasyon", "KutuphaneOtomasyon\KutuphaneOtomasyon.csproj", "{8AD351C4-44BE-4331-B849-588376C092EB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Kutuphane Otomasyonu V1.0 Setup", "Kutuphane Otomasyonu V1.0 Setup\Kutuphane Otomasyonu V1.0 Setup.vdproj", "{5210327F-CD31-40BF-907B-1B15716BCA58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AD351C4-44BE-4331-B849-588376C092EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD351C4-44BE-4331-B849-588376C092EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD351C4-44BE-4331-B849-588376C092EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD351C4-44BE-4331-B849-588376C092EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5210327F-CD31-40BF-907B-1B15716BCA58}.Debug|Any CPU.ActiveCfg = Debug
+		{5210327F-CD31-40BF-907B-1B15716BCA58}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE3FDA51-5DD0-4EEB-A148-416671254D64}
+	EndGlobalSection
+EndGlobal
